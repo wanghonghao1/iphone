@@ -1,0 +1,127 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-24 11:29:14
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-02-01 09:30:56
+*/
+.frame{
+	width: 336px;
+	height: 691px;
+	background: #fcfcfd;
+	border-radius: 40px;
+	border: 5px solid #eed6d4;
+	overflow: hidden;
+	float: left;
+	margin-right: 30px;
+}
+.shang{
+	width: 336px;
+	height: 56px;
+	background: #fcfcfd;
+	border-top-left-radius:35px;
+	border-top-right-radius:35px;
+}
+.neikuang{
+	width: 298px;
+	height: 525px;
+	margin:0 auto;
+}
+.xia{
+	width: 336px;
+	height: 75px;
+	background: #fcfcfd;
+	border-bottom-left-radius:35px;
+	border-bottom-right-radius:35px;
+
+}
+.changtiao{
+	width: 86px;
+	height: 12px;
+	background: #fcfcfd;
+	margin: 0 auto;	
+	margin-top: 12px;
+	float: left;
+    margin-left: 125px;
+}
+.changtiao1{
+	width: 54px;
+	height: 6px;
+	background: #000;
+	border-radius: 5px;
+	margin-left: 32px;
+	margin-top: 3px;
+	float: left;
+}
+.yuan{
+	width: 10px;
+	height: 10px;
+	background: #000;
+	border-radius: 50px;	
+}
+.yuan1{
+	width: 8px;
+	height: 8px;
+	background: #000;
+	border-radius: 50px;
+	margin: 0 auto;
+	margin-top: 19px;
+	margin-left: 180px;
+}
+.hom{
+	width: 56px;
+	height: 56px;
+	background: #f0f4f7;
+	border-radius: 50px;
+	border: 2px solid #000;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.beimian{
+	width: 336px;
+	height: 691px;
+	background: #fbd8d6;
+	border-radius: 40px;
+	border: 5px solid #c3a5a7;
+	float: left;
+}
+.sxt{
+	width: 35px;
+	height: 35px;
+	border-radius: 50px;
+	background: #0e2219;
+	margin-top: 19px;
+	margin-left: 50px;
+	border: 2px solid #3b1d1f;
+	float: left;
+}
+.sxt2{
+	width: 8px;
+	height: 8px;
+	border-radius: 50px;
+	background: #25120e;
+	margin-top: 35px;
+	margin-left: 5px;
+	float: left;
+}
+.sxt3{
+	width: 22px;
+	height: 22px;
+	border-radius: 50px;
+	background: #ffeee7;
+	margin-top: 25px;
+	margin-left: 20px;
+	border: 2px solid #3b1d1f;
+	float: left;
+}
+.biaozhi{
+	width: 67px;
+	height: 82px;
+	margin: 0 auto;
+	margin-top: 130px;
+	margin-left: 135px;
+}
+.ziti{
+	font-size: 20px;
+	text-align: center;
+	margin-top: 255px;
+}
